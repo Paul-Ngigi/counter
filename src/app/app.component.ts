@@ -42,13 +42,13 @@ export class AppComponent {
   }
 
   subtract(idx: number) {
-    if (this.products[idx]?.totalItems) {
+    if (this.products[idx]?.totalItems && this.products[idx]?.totalItems !< 0) {
       this.products[idx].totalItems--;
     }
   }
 
   add(idx: number) {
-    if (this.products[idx]?.totalItems) {
+    if (this.products[idx]?.totalItems && this.products[idx]?.totalItems !< 0) {
       this.products[idx].totalItems++;
     }
   }
