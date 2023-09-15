@@ -1,7 +1,7 @@
 export interface IProduct {
   image: string;
   name: string;
-  amount: number;
+  amount: string;
   color: string;
   available: boolean;
   totalItems: number;

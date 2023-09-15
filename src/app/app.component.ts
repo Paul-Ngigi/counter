@@ -17,7 +17,7 @@ export class AppComponent {
       {
         image: 'assets/panel_kit.svg',
         name: 'Apowery Solar Panel Kit 12V Monacrystalline Battery Maintainer + 10A Solar Charger',
-        amount: 180255,
+        amount: '180255',
         color: 'Black',
         available: true,
         totalItems: 2,
@@ -25,7 +25,7 @@ export class AppComponent {
       {
         image: 'assets/panel_kit.svg',
         name: 'Apowery Solar Panel Kit 12V Monacrystalline Battery Maintainer + 10A Solar Charger',
-        amount: 180255,
+        amount: '180255',
         color: 'Black',
         available: true,
         totalItems: 2,
@@ -33,7 +33,7 @@ export class AppComponent {
       {
         image: 'assets/panel_kit.svg',
         name: 'Apowery Solar Panel Kit 12V Monacrystalline Battery Maintainer + 10A Solar Charger',
-        amount: 180255,
+        amount: '180255',
         color: 'Black',
         available: true,
         totalItems: 2,
